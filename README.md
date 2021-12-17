@@ -4,7 +4,7 @@
     <p>
         # Front-End
     </p>  
-    <img align='center' src='https://github.com/RONISVONN/Tabuada-CSharp/blob/master/img/img01.gif'>
+    <img align='center' src='https://github.com/RONISVONN/Tabuada-CSharp/img/img01.gif'>
 </h2>
 
 <h2 align='center'>
